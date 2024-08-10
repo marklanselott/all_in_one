@@ -1,0 +1,1 @@
+from .Snapinsta import main as Snapinsta
